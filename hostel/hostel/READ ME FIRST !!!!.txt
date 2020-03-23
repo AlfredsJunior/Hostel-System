@@ -1,0 +1,10 @@
+                         : : : : : LOGIN DETAILS : : : : : 
+
+
+Login Admin      Username : admin or demo@afritechsolutions.co.ke
+                 Password :  Test@1234 or demo@afritechsolutions
+
+Login User       Username :test@gmail.com or alfredmwangangi87@gmail.com
+                 Password :Test@123 or  @Mwangangi1996
+
+
